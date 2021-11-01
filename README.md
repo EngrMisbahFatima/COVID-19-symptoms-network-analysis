@@ -2,7 +2,7 @@
 Graph Network analysis on COVID-19 symptoms analysis - Social media analysis project
 Kaggle Dataset link: https://www.kaggle.com/iamhungundji/covid19-symptoms-checker
 
-How to open:
+How to run:
 Run Code1.R file to check relationship between certain number of symptoms common among two patients
 Run Code2.R file to check relationship between total number of symptoms common among two patients
 Run Code3.R file to check relationship between two patients who have exactly same symptoms
